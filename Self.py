@@ -61,7 +61,7 @@ with st.container():
    st.write("Top Events & Festivals")
    st.write("Siargao International Game Fishing Tournament – April\n" 
             "Siargao International Marathon – July\n"
-            "Siargao International Surfing Cup – September\n"
+            "\nSiargao International Surfing Cup – September\n"
             "Part of General Luna’s yearly fiesta – the island’s biggest, with two weeks of parades, parties, live bands and discos.\n" 
             "Other fiestas include Dapa in January, San Benito in March, San Isidro in May, Socorro in June, Del Carmen and Burgus in July, Santa Monica in August, Pilar in October")
 
