@@ -57,7 +57,7 @@ with st.container():
    st.write("---")
    st.header("ABOUT")
    st.write("Culture & Food")
-   st.write("Attracting adventurous travellers from around the world – many on a tight budget – Siargao has an eclectic dining scene embracing international cooking, vegan and other healthy cuisine, and local recipes with or without a modern twist. Filipino favourites not to miss include the seafood boodle fight at Daku Island and the unique surfboard-shaped bread, Pan de Surf.  Siargao has a lively nightlife scene focused on different bars on different nights of the week, so chatting to locals is the best way to find out where to head. Regular venues include Bravo, RumBar, Viento and the Jungle Shack.Another way to get to know locals is through their love of karaoke, both in their own homes and in dedicated bars.")
+   st.write("Attracting adventurous travellers from around the world many on a tight budget – Siargao has an eclectic dining scene embracing international cooking, vegan and other healthy cuisine, and local recipes with or without a modern twist. Filipino favourites not to miss include the seafood boodle fight at Daku Island and the unique surfboard-shaped bread, Pan de Surf.  Siargao has a lively nightlife scene focused on different bars on different nights of the week, so chatting to locals is the best way to find out where to head. Regular venues include Bravo, RumBar, Viento and the Jungle Shack.Another way to get to know locals is through their love of karaoke, both in their own homes and in dedicated bars.")
    st.write("##")
    st.write("Top Events & Festivals")
    st.write(
