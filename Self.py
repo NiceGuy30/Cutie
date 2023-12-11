@@ -30,19 +30,19 @@ with st.container():
       st.write(
          """ 
          ABOUT;\n
-         -CULTURE & FOOD\n
-         -TOP EVENTS & FESTIVALS\n
-        THINGS YOU CAN DO IN SIARGAO;\n
-         -SURFING\n
-         -SUNRISE AND SUNSETS\n
-         -ISLAND HOPPING\n
-         -SUGBA LAGOON\n
-         -CLIFF JUMPING
-         -TAYANGBAN CAVE POOLS\n
-         -TAKTAK WATERFALL\n
-         -BUCAS GRANDE’S LAGOON\n
-         -PACIFICO BEACH\n
-         -LOCAL COMMUNITY MARKET 
+         - CULTURE & FOOD
+         - TOP EVENTS & FESTIVALS
+         THINGS YOU CAN DO IN SIARGAO;\n
+         - SURFING
+         - SUNRISE AND SUNSETS
+         - ISLAND HOPPING
+         - SUGBA LAGOON\n
+         - CLIFF JUMPING
+         - TAYANGBAN CAVE POOLS
+         - TAKTAK WATERFALL
+         - BUCAS GRANDE’S LAGOON
+         - PACIFICO BEACH
+         - LOCAL COMMUNITY MARKET 
          """
       )
    with right_column:
