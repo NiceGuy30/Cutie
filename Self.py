@@ -94,6 +94,7 @@ with st.container():
    st.write("- Get off the beaten track at pristine Pacifico Beach with its small surf-town feel and a sprinkling of resorts and homestays. On Sundays, join in with beach clean-ups in aid of disadvantaged children.")
    st.write("LOCAL COMMUNITY MARKET")
    st.write("- Shop at LOKAL Tabo, a community market where local farmers and artisans sell their produce and crafts.")
+st.write("[All About Siargao >] (https://www.itsmorefuninthephilippines.co.uk/siargao/))
 
 
 
