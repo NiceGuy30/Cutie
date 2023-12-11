@@ -70,4 +70,13 @@ with st.container():
             """
    )
 
+# ---- THINGS YOU CAN DO IN SIARGAO ----
+with st.container():
+   st.write("---")
+   st.header("THINGS YOU CAN DO IN SIARGAO")
+   st.write("SURFING")
+   st.write("Grab a board. For beginners, there’s Jacking Horse with its many surf schools; for pros, the thick, hollow ‘barrels’ at Cloud 9 have earnt it a place among the world’s top 10 waves.")
+   st.write("SUNRISE AND SUNSETS")
+   st.write("Alternatively, admire the action – and watch the sun rise or set, or stargaze – from Cloud 9 boardwalk with its viewing area")
+   
       
