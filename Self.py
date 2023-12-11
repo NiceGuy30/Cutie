@@ -62,11 +62,11 @@ with st.container():
    st.write("Top Events & Festivals")
    st.write(
             """
-            -Siargao International Game Fishing Tournament – April.
-            -Siargao International Marathon – July.
-            -Siargao International Surfing Cup – September.
-            -Part of General Luna’s yearly fiesta – the island’s biggest, with two weeks of parades, parties, live bands and discos.
-            -Other fiestas include Dapa in January, San Benito in March, San Isidro in May, Socorro in June, Del Carmen and Burgus in July, Santa Monica in August, Pilar in October.
+            - Siargao International Game Fishing Tournament – April.
+            - Siargao International Marathon – July.
+            - Siargao International Surfing Cup – September.
+            - Part of General Luna’s yearly fiesta – the island’s biggest, with two weeks of parades, parties, live bands and discos.
+            - Other fiestas include Dapa in January, San Benito in March, San Isidro in May, Socorro in June, Del Carmen and Burgus in July, Santa Monica in August, Pilar in October.
             """
    )
 
